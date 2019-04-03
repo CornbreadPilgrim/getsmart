@@ -1,0 +1,2 @@
+# getsmart
+earlier school project
